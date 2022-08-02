@@ -1,5 +1,5 @@
 import streamlit as st
-import pyodbc
+import pyodbc as pyodbc
 
 # Initialize connection.
 # Uses st.experimental_singleton to only run once.
